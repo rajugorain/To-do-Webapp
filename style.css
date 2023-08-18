@@ -22,7 +22,7 @@ body{
 }
 footer{
     text-align: center;
-    margin-top: 21%;
+    margin-top: 19%;
 }
 @media screen and (max-width: 800px) {
     .container{
