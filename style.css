@@ -20,6 +20,10 @@ body{
     width:50%;
     margin-top: 7em;
 }
+footer{
+    text-align: center;
+    margin-top: 23%;
+}
 @media screen and (max-width: 800px) {
     .container{
         width:70%;
